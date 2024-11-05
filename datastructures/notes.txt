@@ -1,0 +1,5 @@
+time complexity: analyze the runtim of an algorithm as the size of the inputs increase
+
+space complexity: how much additional memory do we need to allocate in order to run the cldeo in our algorithm
+
+auxillary space complexity: space required by the algorithm, no including the inputs
